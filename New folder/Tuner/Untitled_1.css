@@ -1,0 +1,51 @@
+﻿.nav {
+  color: #5a5a5a;
+  font-size: 11px;
+  font-weight: bold;
+  padding: 14px 10px;
+  text-transform: uppercase; 
+}
+  
+.nav li { 
+  display: inline;
+}
+
+.jumbotron {
+  background-image:url('../Images/tuner jumbo.gif');
+  height: 1000px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.jumbotron .container {
+  position: static;
+  top:100px;
+}
+
+.jumbotron h1 {
+  color: White;
+  font-size: 65px;  
+  font-family: Forte;
+  font-weight: bold, 900; 
+}
+
+.jumbotron p {
+  font-size: 20px;
+  color: black;
+}
+
+.JDM-World h2 {
+text-align: center;
+font-family: Forte; 
+}
+
+.JDM-World p {
+	text-align: center;
+	font-family: Forte;
+}
+
+.thumbnail a {
+width: 900px;
+background-color: black;
+}
+
